@@ -1,9 +1,16 @@
 import './Post.css'
 import React from 'react'
+import Posts from '../Posts_info/Posts'
 function Post() {
   return (
     <div className='Post'>
-      hello post
+     <Posts/>
+     <Posts/>
+     <Posts/>
+     <Posts/>
+     <Posts/>
+     <Posts/>
+     <Posts/>
     </div>
   )
 }
