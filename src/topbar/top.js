@@ -4,7 +4,7 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import SearchIcon from '@mui/icons-material/Search';
-import Img from './myimage.jpg'
+import Img1 from './myimage.jpg'
 function top() {
   return (
     <div className='top'>
@@ -23,7 +23,7 @@ function top() {
         </ul>
       </div>
       <div className="topright"> 
-      <img className='myimage' src={Img} alt="My Image" />
+      <img className='myimage' src={Img1} alt="My Image" />
       <SearchIcon className='searchIcon'/>
       </div>
     </div>

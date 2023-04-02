@@ -3,7 +3,7 @@ import './header.css'
 import Headimage from './headerimage.jpg'
 function header() {
   return (
-   <div className='header'> 
+   <div className='header' > 
      <div className='headerTitle'>
       <span className='headerTitleSm'>Blog $ post</span>
       <span className='headerTitleLg'>Welcome to blog</span>
