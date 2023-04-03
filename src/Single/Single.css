@@ -1,5 +1,6 @@
-.Post{
-    flex: 9;
+.single{
+    margin-top: 50px;
     display: flex;
     flex-wrap: wrap;
+ 
 }

@@ -1,5 +1,5 @@
 .header{ 
-  margin-top: 0px ;
+  margin-top: 10px ;
   flex: 13;
   
 }
@@ -20,14 +20,14 @@
 }
 
 .headerTitleSm{
-
-    top: 40%;
+    position: absolute;
+    top: 18%;
     font-size: 30px;
 
 }
 .headerTitleLg{
 
-  
-    top: 18%;
+    position: absolute;
+    top: 14%;
     font-size: 15px;
 }

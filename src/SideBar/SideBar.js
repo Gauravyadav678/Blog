@@ -5,6 +5,7 @@ import { Facebook } from '@mui/icons-material'
 import { Twitter } from '@mui/icons-material'
 import { WhatsApp } from '@mui/icons-material'
 import { Instagram } from '@mui/icons-material'
+import CopyrightIcon from '@mui/icons-material/Copyright';
 function SideBar() {
   return (
     <div className='sideBar'>
@@ -34,6 +35,8 @@ function SideBar() {
         <WhatsApp className='topicon top-3'/>
         <Instagram className='topicon top-4'/>
         </div>
+        <span><CopyrightIcon/></span>
+        <span>Act 2007-2008</span>
       </div>
     </div>
   )

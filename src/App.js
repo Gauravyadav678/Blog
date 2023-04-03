@@ -1,9 +1,12 @@
 
-import Home from './pages/Home.js'
+import Single from '../src/Single/Single'
+import TopHead from './topbar/top'
 function App() {
   return (
     <div className="App">
-     <Home/>
+    <TopHead/>
+     <Single/>
+ 
     </div>
   );
 }

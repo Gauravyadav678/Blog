@@ -10,7 +10,6 @@ function Post() {
      <Posts/>
      <Posts/>
      <Posts/>
-     <Posts/>
     </div>
   )
 }
